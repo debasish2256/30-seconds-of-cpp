@@ -209,6 +209,7 @@ Join other C++ enthusiasts on
 | darksider3 | [Darksider3](https://github.com/Darksider3) |
 | Harsh Raj | [harshraj22](https://github.com/harshraj22) |
 | samuels96 | [samuels96](https://github.com/samuels96) |
+| Debasish | [debasish2256](https://github.com/debasish2256) |
 
 - A big thanks to [Shriam Kaushik](https://github.com/shriamkaushik) for the lovely new logo :heart:
 
